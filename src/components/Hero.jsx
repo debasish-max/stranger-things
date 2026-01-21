@@ -80,24 +80,20 @@ const Hero = () => {
       <motion.div className="hero-content" variants={container} initial="hidden" animate="visible">
         <motion.div className="left" variants={item}>
           <h1 className="st-title">
-            STRANGER<br />THINGS
+            GAME OF<br />THRONES
           </h1>
           <motion.p className="st-desc" variants={item}>
-            When the lights begin to flicker and reality bends,
-            a hidden world awakens beneath Hawkins.
-            Some doors, once opened, can never be closed.
+            Nine noble families wage war against each other in order to gain control over the mythical land of Westeros. Meanwhile, a force is rising after millenniums and threatens the existence of living men.
           </motion.p>
           <motion.button className="st-btn" variants={item}>
-            Enter the Upside Down
+            Enter into the Westeros 
           </motion.button>
         </motion.div>
 
         <motion.div className="right" variants={item}>
-          <h1 className="st-title">The Mind Flayer</h1>
+          <h1 className="st-title">The Night King</h1>
           <motion.p className="st-text" variants={item}>
-            Shadows creep from another dimension, consuming everything in their path.
-            Unravel the mystery and face the darkness head-on.
-            Will you survive the terror of the Upside Down?
+            The Night King is the supreme leader and the first of the White Walkers, having existed since the age of the First Men. By extension, he is also the master of the Wights.
           </motion.p>
         </motion.div>
       </motion.div>

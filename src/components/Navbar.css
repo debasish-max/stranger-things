@@ -21,10 +21,10 @@ pointer-events: none;
   font-family: 'Libre Baskerville', serif;
   font-size: 22px;
   letter-spacing: 2px;
-  color: black;
+  color: rgb(22, 21, 21);
 
   text-shadow:
-    0 0 8px rgba(179, 0, 0, 0.6),
+    0 0 8px rgba(179, 137, 0, 0.6),
     0 0 18px rgba(179, 0, 0, 0.4);
 }
 

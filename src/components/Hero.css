@@ -1,6 +1,6 @@
 .hero {
     height: 100vh;
-    background-image: url('/images/will1.webp');
+    background-image: url('/images/Game-of-Thrones-Kit-Harington-011526-93ec0f7a19914471b9ad5173605e0b17.webp');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -12,7 +12,7 @@
     background-position: 40% 7% !important;
     position: absolute;
     inset: 0;
-    background-image: url('/images/v1.png');
+    background-image: url('/images/TELEMMGLPICT000195851846_trans_NvBQzQNjv4BqNrzB8hrvgfJ5sESwMmBGZOCHfpH_fyW0CNqPxWGmNfw.webp');
     background-size: cover;
     background-position: center;
     pointer-events: none;
@@ -75,13 +75,14 @@
   }
   .left h1{
 font-size: 70px;
-color: red;
+color: rgb(22, 21, 21);
 text-shadow:
-0 0 8px rgba(179, 0, 0, 0.6),
+0 0 8px rgba(179, 137, 0, 0.6),
 0 0 18px rgba(179, 0, 0, 0.4);
   }
   .left p{
     font-size: 20px;
+    color: rgb(240, 238, 238);
 
 
   }
@@ -90,7 +91,7 @@ text-shadow:
     padding: 15px;
     border-radius: 10px;
     background-color: black;
-    color: aliceblue;
+    color: rgb(156, 155, 155);
   }
   .right{
     position: absolute;
@@ -104,7 +105,7 @@ text-shadow:
     font-size: 60px;
     width: 470px;
     text-shadow:
-    0 0 8px rgba(179, 0, 0, 0.6),
+    0 0 8px rgba(21, 181, 230, 0.918),
     0 0 18px rgba(179, 0, 0, 0.4);
       }
       
